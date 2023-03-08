@@ -10,12 +10,16 @@ Nowadays, the number of people using flights has increased significantly. It is 
 #Methods Used
 
 Data Preprocessing
+
 Data Cleaning
+
 Feature Engineering
+
 Machine Learning
+
 Data Visualization
+
 Predictive Modeling
-etc.
 
 
 #Project Description
